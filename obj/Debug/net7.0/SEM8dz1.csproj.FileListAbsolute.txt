@@ -1,0 +1,15 @@
+C:\Users\sasha\Desktop\SEM8dz1\bin\Debug\net7.0\SEM8dz1.exe
+C:\Users\sasha\Desktop\SEM8dz1\bin\Debug\net7.0\SEM8dz1.deps.json
+C:\Users\sasha\Desktop\SEM8dz1\bin\Debug\net7.0\SEM8dz1.runtimeconfig.json
+C:\Users\sasha\Desktop\SEM8dz1\bin\Debug\net7.0\SEM8dz1.dll
+C:\Users\sasha\Desktop\SEM8dz1\bin\Debug\net7.0\SEM8dz1.pdb
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\SEM8dz1.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\SEM8dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\SEM8dz1.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\SEM8dz1.AssemblyInfo.cs
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\SEM8dz1.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\SEM8dz1.dll
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\refint\SEM8dz1.dll
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\SEM8dz1.pdb
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\SEM8dz1.genruntimeconfig.cache
+C:\Users\sasha\Desktop\SEM8dz1\obj\Debug\net7.0\ref\SEM8dz1.dll
